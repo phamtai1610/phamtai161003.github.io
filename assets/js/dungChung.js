@@ -11,21 +11,21 @@ function addHeader() {
                     <li class="dropdown">
                         <a href="#" class="dropbtn"><i class="fa-solid fa-book"></i> Sản phẩm</a>
                         <div class="dropdown-content">
-                            <a href="http://127.0.0.1:5500/ThaoTai10/TStore/DienThoaiAll.html">Điện thoại</a>
-                            <a href="http://127.0.0.1:5500/ThaoTai10/TStore/LapTop.html">Laptop</a>
-                            <a href="http://127.0.0.1:5500/ThaoTai10/TStore/MayTinhBang.html">Máy tính bảng</a>
+                            <a href="/ThaoTai10/TStore/DienThoaiAll.html">Điện thoại</a>
+                            <a href="/ThaoTai10/TStore/LapTop.html">Laptop</a>
+                            <a href="/ThaoTai10/TStore/MayTinhBang.html">Máy tính bảng</a>
 
                         </div>
                     </li>
-                    <li><i class="fa-solid fa-truck"></i><a href="http://127.0.0.1:5500/ThaoTai10/TStore/tracuudonhang.html">Tra cứu đơn hàng</a></li>
-                    <li><i class="fa-solid fa-percent"></i><a href="http://127.0.0.1:5500/ThaoTai10/TStore/khuyenmai.html">Khuyến mãi</a></li>
+                    <li><i class="fa-solid fa-truck"></i><a href="/ThaoTai10/TStore/tracuudonhang.html">Tra cứu đơn hàng</a></li>
+                    <li><i class="fa-solid fa-percent"></i><a href="/ThaoTai10/TStore/khuyenmai.html">Khuyến mãi</a></li>
 
-                    <li><i class="fa-solid fa-phone"></i><a href="http://127.0.0.1:5500/ThaoTai10/TStore/HoTro.html">Liên hệ hỗ trợ</a></li>
-                    <li><i class="fa-solid fa-user"></i><a href="http://127.0.0.1:5500/ThaoTai10/TStore/dangnhap.html">Đăng Nhập</a></li>
+                    <li><i class="fa-solid fa-phone"></i><a href="/ThaoTai10/TStore/HoTro.html">Liên hệ hỗ trợ</a></li>
+                    <li><i class="fa-solid fa-user"></i><a href="/ThaoTai10/TStore/dangnhap.html">Đăng Nhập</a></li>
 
                     <li><input type="text" placeholder="Nhập tên sản phẩm "><i class="fa-solid fa-magnifying-glass"></i></li>
                     <li>
-                        <a href="http://127.0.0.1:5500/ThaoTai10/TStore/giohang.html"><button><i class="fa-solid fa-cart-shopping"></i></button></a></li>
+                        <a href="/ThaoTai10/TStore/giohang.html"><button><i class="fa-solid fa-cart-shopping"></i></button></a></li>
 
                 </ul>
             </div>
@@ -49,8 +49,8 @@ function addFooter() {
             <div class="footer-section">
                 <h4>Thông tin</h4>
                 <ul>
-                    <li><a href="http://127.0.0.1:5500/ThaoTai10/TStore/BaoMat.html">Chính sách bảo mật</a></li>
-                    <li><a href="http://127.0.0.1:5500/ThaoTai10/TStore/tempuser.html">Điều khoản sử dụng</a></li>
+                    <li><a href="/ThaoTai10/TStore/BaoMat.html">Chính sách bảo mật</a></li>
+                    <li><a href="/ThaoTai10/TStore/tempuser.html">Điều khoản sử dụng</a></li>
                 </ul>
             </div>
             <div class="footer-section">
